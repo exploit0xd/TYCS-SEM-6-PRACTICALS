@@ -1,0 +1,25 @@
+Step 1 : #sudo grep -c "svm\|vmx" /proc/cpuinfo
+
+Step 2 : #sudo apt-get install qemu-kvm libvirt-bin bridge-utils virt-manager
+
+Step 3 : #sudo add user demo
+After running this command, log out and log back in as demo
+
+Step 4 : #sudo add user demo lib virtd
+After running this command, log out and log back in as demo
+
+Step 5 : Open Virtual Machine Manager application and Create Virtual Machine
+
+
+Step 6 : Create a new virtual machine by the following steps 
+
+step 7 : select ISO image of the OS > next > give a name > give the os RAM > Give The OS Storage > Set a fixed MAC Address > finish
+
+step 8 : start the virtual machine and perfom the setup. eg (windows)
+
+Step 9: Initialization of windows on virtual machine
+
+Conclusion:
+Installation and configuration of KVM have been done successfully onto Ubuntu and
+users added. Like this we can create as many virtual machines as possible on OS and
+can install any windows onto it.
