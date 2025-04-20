@@ -1,0 +1,20 @@
+first > create project > java web > web application > name it ( PrimeFactorialWebService ) > next > next > finish
+
+
+second > right click source packages > new > java package > name it ( server ) > finish
+
+third > now right click the project main one > new > web service > name it ( MathService ) > select source as server > finish
+
+fourth > in source packages > in server > there exists an MathService.java > click and replace it with my given MathService.java file contents > ctrl + s 
+
+fifth > click source packages > new > java package > name it ( client ) > finish
+
+sixth > right click the main project > deploy > after deploy you can see the we services folder > there exist an Additions > right click > test web servives > url should look like this (http://localhost:8080/PrimeFactorialWebService/MathService?Tester) > change the parameter to this ( http://localhost:8080/PrimeFactorialWebService/MathService?wsdl ) > copy it .
+
+seventh > then right click the web pages folder > new > jsp > name it ( input ) > create it > then replace it with my input.jsp code given > same step also make an output.jsp 
+
+eighth > change the content of input.jsp and output.jsp with my file content > ctrl +s in both files to save 
+
+ninth > right click the main project > new > web service client > paste this url that we copied ( http://localhost:8080/PrimeFactorialWebService/MathService?wsdl ) in WSDL section and in sources select the > client > then finish 
+
+tenth > then in sources > delete the client java package > then right click on main project deploy > then right click on input.jsp and run file > and done 
