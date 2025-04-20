@@ -1,0 +1,20 @@
+first go to > https://console.cloud.google.com/welcome?pli=1&project=mapapi-415304 > then login using a google account 
+
+then left hand top create project open is available > slect it > if not a project exist create it > then name your project > and create it > after creating the project > again click the same button and select the created project.
+
+then from quick access in bottom left select API & Services > then click on enabled api and services > and search > custom search API > then click it > and enable it 
+
+then come back to main dashboard of Api and services > then click on create crediantials > and create api key > api key will be created > copy the key in the notepad
+
+
+then go to this website > https://programmablesearchengine.google.com/about/ > and click get started > click add > name your search engine > select search entire web from toggle down > then onn the image search toggle > click i am not roboat > verify > and create 
+
+
+after creating click customize > there exist a search engine id > copy it to the clipboard 
+
+
+usage of that api key and site id , 
+
+for create a page search , copy my page-search.py script and just replace the api key and site id of your in the program and run > just click the link generated > done
+
+same for image search > just copy my image-search.py program and replace the api key and site-id with yours and run > click the link generated > done 
