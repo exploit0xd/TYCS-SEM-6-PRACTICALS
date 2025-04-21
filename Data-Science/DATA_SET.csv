@@ -1,0 +1,27 @@
+Product,Category,Sales,Cost,Profit
+A,Electronics,1000,500,500
+B,Clothing,1500,750,750
+C,Electronics,2000,1000,1000
+D,Home Appliances,1200,600,600
+E,Clothing,1800,900,900
+F,Electronics,900,450,450
+G,Home Appliances,1300,650,650
+H,Clothing,1600,800,800
+I,Electronics,1100,550,550
+J,Clothing,1400,700,700
+K,Home Appliances,1000,500,500
+L,Electronics,1900,950,950
+M,Clothing,2200,1100,1100
+N,Electronics,800,400,400
+O,Home Appliances,1700,850,850
+P,Clothing,1600,600,1000
+Q,Electronics,1300,650,650
+R,Home Appliances,1600,800,800
+S,Clothing,900,450,450
+T,Electronics,1400,700,700
+U,Home Appliances,1100,550,550
+V,Clothing,2000,1000,1000
+W,Electronics,1500,750,750
+X,Clothing,1700,850,850
+Y,Electronics,1200,600,600
+Z,Home Appliances,800,400,400

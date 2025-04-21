@@ -1,0 +1,184 @@
+[
+  {
+    "Product": "A",
+    "Category": "Electronics",
+    "Sales": 1000,
+    "Cost": 500,
+    "Profit": 500
+  },
+  {
+    "Product": "B",
+    "Category": "Clothing",
+    "Sales": 1500,
+    "Cost": 750,
+    "Profit": 750
+  },
+  {
+    "Product": "C",
+    "Category": "Electronics",
+    "Sales": 2000,
+    "Cost": 1000,
+    "Profit": 1000
+  },
+  {
+    "Product": "D",
+    "Category": "Home Appliances",
+    "Sales": 1200,
+    "Cost": 600,
+    "Profit": 600
+  },
+  {
+    "Product": "E",
+    "Category": "Clothing",
+    "Sales": 1800,
+    "Cost": 900,
+    "Profit": 900
+  },
+  {
+    "Product": "F",
+    "Category": "Electronics",
+    "Sales": 900,
+    "Cost": 450,
+    "Profit": 450
+  },
+  {
+    "Product": "G",
+    "Category": "Home Appliances",
+    "Sales": 1300,
+    "Cost": 650,
+    "Profit": 650
+  },
+  {
+    "Product": "H",
+    "Category": "Clothing",
+    "Sales": 1600,
+    "Cost": 800,
+    "Profit": 800
+  },
+  {
+    "Product": "I",
+    "Category": "Electronics",
+    "Sales": 1100,
+    "Cost": 550,
+    "Profit": 550
+  },
+  {
+    "Product": "J",
+    "Category": "Clothing",
+    "Sales": 1400,
+    "Cost": 700,
+    "Profit": 700
+  },
+  {
+    "Product": "K",
+    "Category": "Home Appliances",
+    "Sales": 1000,
+    "Cost": 500,
+    "Profit": 500
+  },
+  {
+    "Product": "L",
+    "Category": "Electronics",
+    "Sales": 1900,
+    "Cost": 950,
+    "Profit": 950
+  },
+  {
+    "Product": "M",
+    "Category": "Clothing",
+    "Sales": 2200,
+    "Cost": 1100,
+    "Profit": 1100
+  },
+  {
+    "Product": "N",
+    "Category": "Electronics",
+    "Sales": 800,
+    "Cost": 400,
+    "Profit": 400
+  },
+  {
+    "Product": "O",
+    "Category": "Home Appliances",
+    "Sales": 1700,
+    "Cost": 850,
+    "Profit": 850
+  },
+  {
+    "Product": "P",
+    "Category": "Clothing",
+    "Sales": 1600,
+    "Cost": 600,
+    "Profit": 1000
+  },
+  {
+    "Product": "Q",
+    "Category": "Electronics",
+    "Sales": 1300,
+    "Cost": 650,
+    "Profit": 650
+  },
+  {
+    "Product": "R",
+    "Category": "Home Appliances",
+    "Sales": 1600,
+    "Cost": 800,
+    "Profit": 800
+  },
+  {
+    "Product": "S",
+    "Category": "Clothing",
+    "Sales": 900,
+    "Cost": 450,
+    "Profit": 450
+  },
+  {
+    "Product": "T",
+    "Category": "Electronics",
+    "Sales": 1400,
+    "Cost": 700,
+    "Profit": 700
+  },
+  {
+    "Product": "U",
+    "Category": "Home Appliances",
+    "Sales": 1100,
+    "Cost": 550,
+    "Profit": 550
+  },
+  {
+    "Product": "V",
+    "Category": "Clothing",
+    "Sales": 2000,
+    "Cost": 1000,
+    "Profit": 1000
+  },
+  {
+    "Product": "W",
+    "Category": "Electronics",
+    "Sales": 1500,
+    "Cost": 750,
+    "Profit": 750
+  },
+  {
+    "Product": "X",
+    "Category": "Clothing",
+    "Sales": 1700,
+    "Cost": 850,
+    "Profit": 850
+  },
+  {
+    "Product": "Y",
+    "Category": "Electronics",
+    "Sales": 1200,
+    "Cost": 600,
+    "Profit": 600
+  },
+  {
+    "Product": "Z",
+    "Category": "Home Appliances",
+    "Sales": 800,
+    "Cost": 400,
+    "Profit": 400
+  }
+]
