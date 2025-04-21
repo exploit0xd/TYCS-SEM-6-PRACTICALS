@@ -1,8 +1,8 @@
 import requests
 
-API_KEY = 'paste_your_key_here'
-SEARCH_ENGINE_ID = 'paste_your_id_here'
-search_query = 'book'
+API_KEY = 'Your-api-key'
+SEARCH_ENGINE_ID = 'Your-api-key'
+search_query = 'dogs'
 
 url = 'https://www.googleapis.com/customsearch/v1'
 params = {

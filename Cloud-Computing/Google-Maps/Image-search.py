@@ -1,8 +1,8 @@
 import requests
 
 # Read API key and Search Engine ID from files
-API_KEY = Your-api-key
-SEARCH_ENGINE_ID = Your-api-key
+API_KEY = 'Your-api-key'
+SEARCH_ENGINE_ID = 'Your-api-key'
 
 # Define the search query
 search_query = 'linux book'
