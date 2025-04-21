@@ -9,7 +9,7 @@ fourth > in source packages > in server > there exists an TemperatureService.jav
 
 fifth > click source packages > new > java package > name it ( client ) > finish
 
-sixth > right click the main project > deploy > after deploy you can see the we services folder > there exist an Additions > right click > test web servives > url should look like this (http://localhost:8080/TemperatureConverterService/TemperatureService?Tester) > change the parameter to this ( http://localhost:8080/TemperatureConverterService/TemperatureService?wsdl ) > copy it .
+sixth > right click the main project > deploy > after deploy you can see the web services folder > there exist an TemperatureService > right click > test web servives > url should look like this (http://localhost:8080/TemperatureConverterService/TemperatureService?Tester) > change the parameter to this ( http://localhost:8080/TemperatureConverterService/TemperatureService?wsdl ) > copy it .
 
 seventh > then right click the web pages folder > new > jsp > name it ( input ) > create it > then replace it with my input.jsp code given > same step also make an output.jsp 
 
