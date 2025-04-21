@@ -5,7 +5,7 @@ second > right click source packages > new > java package > name it ( server ) >
 
 third > now right click the project main one > new > web service > name it ( Addition ) > select source as server > finish
 
-fourth > in source packages > in server > there exists an additions.java > click and replace it with my given addition.java file contents > ctrl + s 
+fourth > in source packages > in server > there exists an Additions.java > click and replace it with my given Addition.java file contents > ctrl + s 
 
 fifth > click source packages > new > java package > name it ( client ) > finish
 
